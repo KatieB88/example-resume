@@ -18,6 +18,14 @@
     background-color: #3498db;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 .ui-menu-color-cv{
     background-color: #525252;
 }
@@ -37,6 +45,15 @@
 .bg-color-contact{
     background-color: #ffffff;
 }
+
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
+    background-color: #ffffff;
+}
+
 
 body{
     font-family: Roboto, sans-serif;
